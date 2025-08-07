@@ -1,150 +1,189 @@
-# Universidad Tecnológica de Pereira  
-**Facultad de Ingenierías**  
-**Programa Tecnología en Desarrollo de Software**  
+# Universidad Tecnológica de Pereira
+
+**Facultad de Ingenierías**
+**Programa Tecnología en Desarrollo de Software**
 
 ## TS5C4: Programación Web
 
-- **Nombre del programa académico:** Tecnología en Desarrollo de Software  
-- **Nombre completo de la asignatura:** Programación Web  
-- **Área académica o categoría:** Programación  
-- **Semestre y año de actualización:** 2024  
-- **Semestre y año en que se imparte:** 5° Semestre  
-- **Tipo de asignatura:** ☑ Obligatoria ☐ Electiva  
-- **Número de créditos ECTS:** 6  
-- **Director o contacto del programa:** Guillermo Roberto Solarte Martínez  
-- **Coordinador o contacto de la asignatura:** *No especificado*  
+* **Nombre del programa académico:** Tecnología en Desarrollo de Software
+* **Nombre completo de la asignatura:** Programación Web
+* **Área académica o categoría:** Programación
+* **Semestre y año de actualización:** 2024
+* **Semestre y año en que se imparte:** 5° Semestre
+* **Tipo de asignatura:** ☑ Obligatoria ☐ Electiva
+* **Número de créditos ECTS:** 6
+* **Director o contacto del programa:** Guillermo Roberto Solarte Martínez
+* **Coordinador o contacto de la asignatura:** *No especificado*
 
 ---
 
-## 1. Breve descripción
+## 📌 Breve descripción
 
 Se conoce como desarrollo web al proceso de crear y mantener un sitio web que sea funcional en internet, a través de diferentes lenguajes de programación, según el modelo y la parte de la página que corresponda.
 
 ---
 
-## 2. Objetivos
+## 🎯 Objetivos
 
 ### Correspondencia con los objetivos del programa:
 
-- Al finalizar el curso, los estudiantes deberán tener un dominio sólido de las tecnologías front-end, incluyendo HTML, CSS, JavaScript y un framework moderno (por ejemplo, React, Angular o Vue.js).  
-- Los estudiantes deberán adquirir habilidades en el desarrollo back-end, comprendiendo cómo crear y gestionar servidores, así como interactuar con bases de datos.  
-- Los estudiantes deberán ser capaces de diseñar, desarrollar y desplegar aplicaciones web completas, abarcando tanto el front-end como el back-end.
+* Dominar tecnologías front-end: HTML, CSS, JavaScript y un framework moderno (React, Angular o Vue.js).
+* Adquirir habilidades en el desarrollo back-end, gestión de servidores y conexión a bases de datos.
+* Diseñar, desarrollar y desplegar aplicaciones web completas (full stack).
 
 ---
 
-## 3. Resultados de aprendizaje
+## 🧠 Resultados de aprendizaje
 
-### Competencias específicas:
+### Competencias específicas
 
-- Creación de páginas web estáticas y básicas con interactividad.  
-- Creación de aplicaciones web simples con funcionalidad del lado del servidor.  
-- Desarrollo y consumo de API básicas.  
-- Desarrollo de proyectos que abarquen tanto la interfaz de usuario como la lógica del servidor.  
-- Presentación de un proyecto completo y un portafolio que destaque las habilidades adquiridas.  
-- Aplicación de mejores prácticas de codificación y conciencia de la seguridad en el desarrollo web.
+* Páginas web estáticas y dinámicas con interactividad.
+* Aplicaciones web con lógica del lado del servidor.
+* Creación y consumo de API básicas.
+* Proyectos que integren front-end y back-end.
+* Portafolio profesional de desarrollo web.
+* Buenas prácticas de codificación y seguridad.
 
-### Otras competencias por formar:
+### Otras competencias
 
-- Capacidad para enfrentar desafíos y crear soluciones eficientes.  
-- Participación activa en discusiones, colaboración en proyectos y presentación efectiva de soluciones.  
-- Elección y uso efectivo de herramientas según los requisitos del proyecto.
+* Resolución de problemas y eficiencia.
+* Trabajo colaborativo y comunicación efectiva.
+* Uso adecuado de herramientas técnicas.
 
 ---
 
-## 4. Contenido
+## 📚 Contenido del curso
 
 ### Módulo 1: Fundamentos de la Web (5 semanas)
 
-- Introducción a HTML y creación de documentos web  
-- Estilización con CSS para diseñar páginas web básicas  
-- Introducción a JavaScript y manipulación del DOM  
+* HTML, CSS, JavaScript, DOM.
 
 ### Módulo 2: Frameworks y herramientas (2 semanas)
 
-- Control de versiones con Git y GitHub  
-- Introducción a React, Angular o Vue.js (elección del estudiante)  
-- Creación de componentes y manejo de eventos  
+* Git, GitHub, React/Angular/Vue, componentes.
 
 ### Módulo 3: Desarrollo Back-End (6 semanas)
 
-- Configuración de un servidor local con un framework (por ejemplo, Node.js)  
-- Introducción a bases de datos SQL y NoSQL  
-- Desarrollo de una API simple usando Express (Node.js)  
+* Node.js, Express, SQL/NoSQL, API simple.
 
 ### Módulo 4: Integración Front-End y Back-End (3 semanas)
 
-- Conexión de la interfaz de usuario con la API  
-- Manejo de datos en la aplicación completa  
+* Conexión de API y manejo de datos en la app.
 
 ---
 
-## 5. Requisitos
+## ✅ Requisitos previos
 
-- Familiaridad con conceptos básicos de bases de datos  
-- Comprensión de conceptos fundamentales de HTML y CSS  
-- Lógica de programación básica  
+* Fundamentos de HTML y CSS.
+* Lógica de programación básica.
+* Conceptos básicos de bases de datos.
 
 ---
 
-## 6. Recursos
+## 🛠️ Herramientas y recursos
 
 ### Libros
 
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)  
-- [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/JsFrontendApp-Book/)  
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
+* [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/JsFrontendApp-Book/)
 
 ### Herramientas
 
-- Node.js y npm  
-- IDE (Visual Studio Code, Vim, etc.)  
-- Navegador Web (Firefox, Safari, etc.)  
+* Node.js, npm
+* Visual Studio Code (o editor de preferencia)
+* Navegador moderno
+
+### Soporte técnico
+
+* Google Classroom
+* GitHub o Bitbucket
+* Jueces en línea: CodeForces, AdventureJS
 
 ---
 
-## 7. Herramientas técnicas de soporte para la enseñanza
+## 📦 Estructura de carpetas del curso
 
-- Herramienta de comunicación: Classroom  
-- Repositorios de código: GitHub, Bitbucket  
-- Jueces en línea: CodeForces, AdventureJS  
+```
+Programación_Web_TS5C4/
+│
+├── 01_Fundamentos_Web/
+│   ├── HTML/
+│   ├── CSS/
+│   ├── JavaScript/
+│   ├── DOM/
+│   └── Ejercicios/
+│
+├── 02_Frontend_Frameworks/
+│   ├── React/              # o Angular/Vue
+│   ├── Git_GitHub/
+│   ├── Componentes_Eventos/
+│   └── Ejercicios/
+│
+├── 03_Backend/
+│   ├── NodeJS_Express/
+│   ├── BaseDeDatos_SQL/
+│   ├── BaseDeDatos_NoSQL/
+│   ├── API_Simple/
+│   └── Ejercicios/
+│
+├── 04_Integración_Front_Back/
+│   ├── Conexión_API_Frontend/
+│   ├── Manejo_Datos_App/
+│   └── Ejercicios/
+│
+├── Recursos/
+│   ├── You_Dont_Know_JS.md
+│   ├── Building_JS_Web_Apps.md
+│   ├── Documentación_Oficial/
+│   └── Herramientas/
+│
+├── Proyectos/
+│   ├── Miniproyecto_1_Portafolio/
+│   ├── Miniproyecto_2_FakeAPI/
+│   ├── Miniproyecto_3_CRUD_API/
+│   └── Proyecto_Final/
+│
+├── Evaluaciones/
+│   ├── Tareas/
+│   ├── Quices/
+│   └── Parciales/
+│
+└── Apuntes_Clase/
+    ├── PDF/
+    ├── Markdown/
+    └── Imágenes/
+```
 
 ---
 
-## 8. Trabajos en laboratorio y proyectos
+## 🧪 Trabajos y proyectos
 
-- Talleres específicos para cada tecnología  
-- Retos para mejorar la lógica de programación  
-- Proyectos de impacto  
-
----
-
-## 9. Métodos de aprendizaje
-
-- Aprendizaje basado en proyectos  
-- Clases magistrales y demostraciones  
-- Estudio de casos específicos  
-- Investigaciones  
-- Videos y presentaciones  
+* **Miniproyecto 1:** Portafolio web básico del estudiante.
+* **Miniproyecto 2:** Página web que consuma una *fake API*.
+* **Miniproyecto 3:** API CRUD (crear, leer, actualizar, eliminar).
+* **Proyecto Final:** Aplicación web full stack completa.
 
 ---
 
-## 10. Métodos de evaluación
+## 📖 Métodos de aprendizaje
 
-### Tareas
+* Clases magistrales y prácticas.
+* Aprendizaje basado en proyectos.
+* Estudio de casos y presentaciones.
+* Investigaciones individuales o grupales.
 
-Se proponen una serie de retos para mejorar las habilidades en los lenguajes y la lógica de programación.
+---
 
-### Miniproyecto 1
+## 📝 Evaluación
 
-Creación de un portafolio básico, en el que se reflejen características del estudiante.
+* **Tareas y retos** semanales.
+* **Miniproyectos** por módulo.
+* **Proyecto final** integrador.
 
-### Miniproyecto 2
+---
 
-Creación de una página web usando una *fake API*.
+## 🏆 Calificación de la materia
 
-### Miniproyecto 3
-
-Creación de una API que ejecute las operaciones elementales (crear, leer, actualizar y eliminar).
-
-### Proyecto final
-
-Creación de una página web completa, que se alimente de un back-end comunicado por medio de una API.
+* **Primer parcial:** 30%
+* **Tareas:** 30% (Máximo 3 estudiantes deben sustentar)
+* **Final:** 40% (Parejas deben sustentar)
