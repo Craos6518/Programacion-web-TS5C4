@@ -14,7 +14,9 @@
 * **Número de créditos ECTS:** 6
 * **Director o contacto del programa:** Guillermo Roberto Solarte Martínez
 * **Coordinador o contacto de la asignatura:** *No especificado*
-
+---
+## Codigo de classroom:
+7u4uo5vy
 ---
 
 ## 📌 Breve descripción
